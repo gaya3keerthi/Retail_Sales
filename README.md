@@ -9,3 +9,17 @@ Effective data management is key to balancing customer satisfaction and profitab
 Customer intelligence involves transforming raw transactional and behavioral data into actionable insights, predicting future trends, and improving decision-making.
 
 This practice is essential for large retailers, who utilize data analytics to track emerging products, forecast sales, optimize product placements and enhance promotional strategies.
+
+## About the Data:
+
+A Retail store is required to analyze the day-to-day transactions and keep a track of its customers spread across various locations along with their purchases/returns across various categories.
+
+## Data Schema:
+
+There are three datasets (Customer, Transaction, Product Hierarchy):
+
+Customer: Customer information including demographics
+
+Transaction: Transaction of customers
+
+Product Hierarchy: Product information
